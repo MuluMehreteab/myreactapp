@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myreactapp/static/css/main.e1aeadec.chunk.css",
+    "main.css": "/myreactapp/static/css/main.4b9e28fd.chunk.css",
     "main.js": "/myreactapp/static/js/main.8998ba25.chunk.js",
     "main.js.map": "/myreactapp/static/js/main.8998ba25.chunk.js.map",
     "runtime-main.js": "/myreactapp/static/js/runtime-main.85f5ac3d.js",
@@ -10,7 +10,7 @@
     "static/js/3.fdfffa07.chunk.js": "/myreactapp/static/js/3.fdfffa07.chunk.js",
     "static/js/3.fdfffa07.chunk.js.map": "/myreactapp/static/js/3.fdfffa07.chunk.js.map",
     "index.html": "/myreactapp/index.html",
-    "static/css/main.e1aeadec.chunk.css.map": "/myreactapp/static/css/main.e1aeadec.chunk.css.map",
+    "static/css/main.4b9e28fd.chunk.css.map": "/myreactapp/static/css/main.4b9e28fd.chunk.css.map",
     "static/js/2.3010f1db.chunk.js.LICENSE.txt": "/myreactapp/static/js/2.3010f1db.chunk.js.LICENSE.txt",
     "static/media/App.css": "/myreactapp/static/media/bg-desktop.6824779f.svg",
     "static/media/illustration-mockups.264994a5.svg": "/myreactapp/static/media/illustration-mockups.264994a5.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.85f5ac3d.js",
     "static/js/2.3010f1db.chunk.js",
-    "static/css/main.e1aeadec.chunk.css",
+    "static/css/main.4b9e28fd.chunk.css",
     "static/js/main.8998ba25.chunk.js"
   ]
 }
